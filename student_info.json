@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Altynai",
+		"surname": "Abylgazieva",
+		"username": "abylgazievaalt",
+		"email": "abylgazievaalt@gmail.com",
+		"age": 20,
+		"birthDate": {
+			"month": "april",
+			"day": "10",
+			"year": "1999"
+		},
+		
+		"interests": ["programming", "drawing", "photography", "movies"]
+	}
+]
