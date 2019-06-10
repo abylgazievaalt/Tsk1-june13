@@ -9,8 +9,8 @@
 			"month": "april",
 			"day": "10",
 			"year": "1999"
-		},
-		
+		},	
+		"department": "SFW",
 		"interests": ["programming", "drawing", "photography", "movies"]
 	}
 ]
