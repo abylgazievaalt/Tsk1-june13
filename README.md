@@ -1,2 +1,3 @@
 # Tsk1-june13
-JSON
+
+Altynai Abylgazieva, https://github.com/abylgazievaalt/Tsk1-june13
